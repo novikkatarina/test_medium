@@ -1,0 +1,13 @@
+0 Teddy bear
+1 Teddy bear
+2 Teddy bear
+3 Teddy bear
+4 Teddy bear
+6 Car
+7 Car
+5 Teddy bear
+11 Doll
+8 Car
+9 Car
+10 Car
+12 Doll
